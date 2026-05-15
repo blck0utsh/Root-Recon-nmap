@@ -1,4 +1,4 @@
-![Banner Dark Tech](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQwYnNrOGR1YTBlc2hlaTZidnRtM3BwcTRkaTNqdzdrYjJkNjkxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SHF5dpGlltj4bwqFY/giphy.gif)
+![Banner Dark Tech](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ3MTFzZDV0ZjkxNXVwZWxyNG9zYTRqc3RtYXBnbWVkdTB0NGlkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yASwIq0gYlXpUsUkP/giphy.gif)
 
 # 💀 Root-Recon-nmap // Blck0ut.sh
 > "Aprenda a sintaxe ou continue nas sombras."
