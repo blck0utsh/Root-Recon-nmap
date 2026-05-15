@@ -1,4 +1,6 @@
-![Banner Dark Tech](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ3MTFzZDV0ZjkxNXVwZWxyNG9zYTRqc3RtYXBnbWVkdTB0NGlkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yASwIq0gYlXpUsUkP/giphy.gif)
+
+
+![Banner Dark Tech](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ3MTFzZDV0ZjkxNXVwZWxyNG9zYTRqc3RtYXBnbWVkdTB0NGlkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yASwIq0gYlXpUsUkP/giphy.gif))
 
 # 💀 Root-Recon-nmap // Blck0ut.sh
 > "Aprenda a sintaxe ou continue nas sombras."
@@ -9,7 +11,7 @@ Este projeto não é apenas um script, é um protocolo de treinamento. Ele foi c
 
 ## 🛠️ O Conceito: "Vai digitar para aprender!"
 
-Muitas ferramentas automatizam tudo e deixam o analista "preguiçoso". O script `aprendiz_nmap.sh` quebra esse ciclo:
+Muitas ferramentas automatizam tudo e deixam o analista "preguiçoso". O script `nmap_root_scan.sh` quebra esse ciclo:
 1. Ele apresenta o cenário de reconhecimento.
 2. Explica a lógica do comando.
 3. **Exige** que você digite o comando manualmente para ser executado.
@@ -30,7 +32,7 @@ git clone [https://github.com/blck0utsh/Root-Recon-nmap.git](https://github.com/
 cd Root-Recon-nmap
 
 # Dê permissão de execução
-chmod +x aprendiz_nmap.sh
+chmod +x nmap_root_scan.sh
 
 # Inicie o treinamento
-./aprendiz_nmap.sh
+./nmap_root_scan.sh
